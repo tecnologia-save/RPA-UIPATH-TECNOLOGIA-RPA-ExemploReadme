@@ -1,0 +1,6 @@
+{
+  "Name": "Projeto Exemplo",
+  "ProjectType": "Process",
+  "Description": "Exemplo de automação no UiPath seguindo os padrões recomendados.",
+  "MainFile": "Main.xaml"
+}
