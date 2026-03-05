@@ -10,7 +10,9 @@
 <b>[Empresa] • [Tecnologia: ] </b><br/>
 Automação desenvolvida para padronização, rastreabilidade e eficiência operacional.
 </p>
+
 ---
+
 ## 🎯 Objetivo da Automação
 
 Descreva o propósito principal do robô:
